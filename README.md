@@ -1,3 +1,9 @@
+# Rust Nightly fork
+
+This is a fork of the official (Rust Optimizer)[https://github.com/CosmWasm/rust-optimizer] which adds support for Rust Nightly version.
+
+Find the built Docker Images on (Docker Hub)[https://hub.docker.com/r/raresbuidly/rust-optimizer-nightly].
+
 # CosmWasm Optimizing Compiler
 
 This is a Docker build with a locked set of dependencies to produce
