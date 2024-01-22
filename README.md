@@ -4,6 +4,12 @@ This is a fork of the official (Rust Optimizer)[https://github.com/CosmWasm/rust
 
 Find the built Docker Images on (Docker Hub)[https://hub.docker.com/r/raresbuidly/rust-optimizer-nightly].
 
+To build this image and push it to Docker Hub one can use:
+
+`docker build . --tag raresbuidly/rust-optimizer-nightly:latest`
+`docker push raresbuidly/rust-optimizer-nightly:latest`
+
+
 # CosmWasm Optimizing Compiler
 
 This is a Docker build with a locked set of dependencies to produce
